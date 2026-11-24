@@ -3,6 +3,8 @@ import react from '@vitejs/plugin-react';
 import { fileURLToPath, URL } from 'node:url';
 
 export default defineConfig({
+  // Caminhos relativos permitem abrir o build diretamente do ZIP ou hospedar em qualquer subpasta.
+  base: './',
   plugins: [react()],
   resolve: {
     alias: {
