@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="TOKI — Industrial Operating System">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E33B40" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#E33B40" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="#101114"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <rect x="0" y="0" width="10" height="300" fill="#E33B40"/>
+  <rect x="0" y="0" width="620" height="300" fill="url(#fade)"/>
+
+  <g font-family="Consolas, 'SF Mono', Menlo, monospace">
+    <text x="80" y="126" fill="#F4F4F5" font-size="84" font-weight="700" letter-spacing="8">TOKI</text>
+    <text x="84" y="170" fill="#A1A1A8" font-size="21" letter-spacing="5">INDUSTRIAL OPERATING SYSTEM</text>
+    <rect x="84" y="190" width="330" height="3" fill="#E33B40"/>
+
+    <g font-size="15" letter-spacing="2">
+      <rect x="84" y="222" width="118" height="34" rx="3" fill="none" stroke="#E33B40" stroke-width="1.5"/>
+      <text x="100" y="244" fill="#F0A5A8">PLOTTER</text>
+
+      <rect x="212" y="222" width="96" height="34" rx="3" fill="none" stroke="#4A4A52" stroke-width="1.5"/>
+      <text x="228" y="244" fill="#B9B9C0">3D PRINT</text>
+
+      <rect x="318" y="222" width="76" height="34" rx="3" fill="none" stroke="#4A4A52" stroke-width="1.5"/>
+      <text x="334" y="244" fill="#B9B9C0">CNC</text>
+    </g>
+
+    <text x="84" y="282" fill="#6C6C74" font-size="13" letter-spacing="2">v0.1.0  /  WEB SERIAL + MARLIN</text>
+  </g>
+
+  <!-- Vista esquemática da rig: leito, pórtico e cabeçote volumétrico -->
+  <g transform="translate(790 46)" stroke-linejoin="round">
+    <rect x="0" y="152" width="300" height="76" fill="#1A1C20" stroke="#3A3C43" stroke-width="2"/>
+    <g stroke="#2E3036" stroke-width="1">
+      <path d="M50 152V228 M100 152V228 M150 152V228 M200 152V228 M250 152V228"/>
+      <path d="M0 176H300 M0 200H300"/>
+    </g>
+    <rect x="18" y="132" width="264" height="12" fill="#2A2C31" stroke="#4A4C54" stroke-width="1.5"/>
+    <rect x="18" y="84" width="264" height="10" fill="#2A2C31" stroke="#4A4C54" stroke-width="1.5"/>
+    <rect x="22" y="94" width="7" height="38" fill="#34363C" stroke="#4A4C54" stroke-width="1"/>
+    <rect x="271" y="94" width="7" height="38" fill="#34363C" stroke="#4A4C54" stroke-width="1"/>
+
+    <g>
+      <polygon points="150,102 176,102 176,132 150,132" fill="#34363C" stroke="#5A5C64" stroke-width="1"/>
+      <polygon points="176,102 186,94 186,124 176,132" fill="#23252A" stroke="#5A5C64" stroke-width="1"/>
+      <polygon points="150,102 160,94 186,94 176,102" fill="#45474F" stroke="#5A5C64" stroke-width="1"/>
+      <polygon points="157,132 169,132 163,150" fill="#E33B40"/>
+    </g>
+
+    <g stroke-width="2" fill="none">
+      <path d="M8 152H62" stroke="#E33B40"/>
+      <path d="M62 152L54 147V157Z" stroke="#E33B40" fill="#E33B40"/>
+      <path d="M8 152V102" stroke="#5DBB72"/>
+      <path d="M8 102L3 112H13Z" stroke="#5DBB72" fill="#5DBB72"/>
+      <path d="M8 152L-14 134" stroke="#6C9BE8"/>
+      <path d="M-14 134L-4 133L-7 143Z" stroke="#6C9BE8" fill="#6C9BE8"/>
+    </g>
+    <g fill="#8C8C94" font-family="Consolas, monospace" font-size="12">
+      <text x="66" y="156">X</text>
+      <text x="12" y="96">Y</text>
+      <text x="-30" y="128">Z</text>
+    </g>
+  </g>
+</svg>
