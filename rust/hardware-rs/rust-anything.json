@@ -1,0 +1,73 @@
+{
+  "schema": "rust-anything/bridge@1",
+  "root": "C:\\Users\\Aluno.SN-395553\\Documents\\Projeto Padrão\\Toki",
+  "unit": "src/hardware/",
+  "language": "ts",
+  "kind": "napi",
+  "crate_name": "hardware-rs",
+  "exports": [
+    {
+      "name": "allowedCommandsFor",
+      "file": "src/hardware/commands.ts",
+      "line": 24,
+      "params": [
+        {
+          "name": "rig",
+          "ts_type": "RigState",
+          "optional": false,
+          "rest": false
+        }
+      ],
+      "returns": "string[]",
+      "is_async": false,
+      "is_generator": false,
+      "type_params": [],
+      "uses_instanceof": false
+    },
+    {
+      "name": "validateCommand",
+      "file": "src/hardware/commands.ts",
+      "line": 31,
+      "params": [
+        {
+          "name": "raw",
+          "ts_type": "string",
+          "optional": false,
+          "rest": false
+        },
+        {
+          "name": "context",
+          "ts_type": "CommandContext",
+          "optional": false,
+          "rest": false
+        }
+      ],
+      "returns": "ValidationResult",
+      "is_async": false,
+      "is_generator": false,
+      "type_params": [],
+      "uses_instanceof": false
+    }
+  ],
+  "classes": [],
+  "js_only": [
+    {
+      "name": "DemoAdapter",
+      "file": "src/hardware/DemoAdapter.ts",
+      "line": 6,
+      "reason": "class: kept on request"
+    },
+    {
+      "name": "MarlinAdapter",
+      "file": "src/hardware/MarlinAdapter.ts",
+      "line": 25,
+      "reason": "class: kept on request"
+    },
+    {
+      "name": "WebSerialTransport",
+      "file": "src/hardware/WebSerialTransport.ts",
+      "line": 3,
+      "reason": "class: kept on request"
+    }
+  ]
+}
