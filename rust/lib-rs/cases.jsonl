@@ -1,0 +1,1009 @@
+{"fn":"createEmptyDoc","args":[],"ok":{"shapes":[],"layers":[{"id":"layer_01","name":"CAMADA 01","color":"#171719","visible":true,"locked":false}],"bed":{"width":300,"height":300},"settings":{"feedRate":1800,"travelRate":3000,"penUp":5,"penDown":0,"passes":1}}}
+{"fn":"shapeToPoints","args":["x","x"],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[0,"x"],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{},{"a":"b"}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[0,{}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[["a",1],"x"],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":["x",null],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{"a":"b"},{}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{"a":{"b":"c"}},[]],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[null,null],"error":"Cannot read properties of null (reading 'points')"}
+{"fn":"shapeToPoints","args":[true,{"a":{"b":"c"}}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{},"x"],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[["a",1],0],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[true,"x"],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{},{}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{"a":{"b":"c"}},"x"],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[null,[]],"error":"Cannot read properties of null (reading 'points')"}
+{"fn":"shapeToPoints","args":[{"a":{"b":"c"}},{"a":"b"}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[["a",1],{}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{"a":"b"},null],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[[],[]],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[null,"x"],"error":"Cannot read properties of null (reading 'points')"}
+{"fn":"shapeToPoints","args":[["a",1],[]],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[["a",1],{"a":{"b":"c"}}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[true,true],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{"a":"b"},{"a":"b"}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{"a":{"b":"c"}},{"a":{"b":"c"}}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{"a":{"b":"c"}},null],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[true,{"a":"b"}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[0,0],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[null,true],"error":"Cannot read properties of null (reading 'points')"}
+{"fn":"shapeToPoints","args":[{"a":"b"},["a",1]],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{},{"a":{"b":"c"}}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[null,0],"error":"Cannot read properties of null (reading 'points')"}
+{"fn":"shapeToPoints","args":[null,{"a":"b"}],"error":"Cannot read properties of null (reading 'points')"}
+{"fn":"shapeToPoints","args":[true,0],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{"a":{"b":"c"}},0],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{},null],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[true,[]],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{"a":"b"},"x"],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":["x",{}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":["x",["a",1]],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[0,{"a":"b"}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[[],{"a":{"b":"c"}}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[0,null],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[[],["a",1]],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":["x",{"a":"b"}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[[],"x"],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{"a":"b"},0],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[["a",1],true],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[0,true],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[true,{}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[[],{"a":"b"}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[[],null],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":["x",[]],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{"a":{"b":"c"}},{}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{"a":"b"},{"a":{"b":"c"}}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{},[]],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":["x",{"a":{"b":"c"}}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[[],{}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[null,{}],"error":"Cannot read properties of null (reading 'points')"}
+{"fn":"shapeToPoints","args":[{"a":{"b":"c"}},true],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[["a",1],null],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{},0],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":["x",true],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":["x",0],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{"a":"b"},true],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[[],true],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[["a",1],["a",1]],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[null,{"a":{"b":"c"}}],"error":"Cannot read properties of null (reading 'points')"}
+{"fn":"shapeToPoints","args":[{},["a",1]],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[0,{"a":{"b":"c"}}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[true,null],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[0,[]],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[[],0],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{"a":"b"},[]],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[["a",1],{"a":"b"}],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[0,["a",1]],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[null,["a",1]],"error":"Cannot read properties of null (reading 'points')"}
+{"fn":"shapeToPoints","args":[{"a":{"b":"c"}},["a",1]],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[true,["a",1]],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"shapeToPoints","args":[{},true],"error":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))"}
+{"fn":"buildSegments","args":[{"a":{"b":"c"}}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"buildSegments","args":[0],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"buildSegments","args":[[]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"buildSegments","args":[["a",1]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"buildSegments","args":[{"a":"b"}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"buildSegments","args":[{}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"buildSegments","args":["x"],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"buildSegments","args":[null],"error":"Cannot read properties of null (reading 'layers')"}
+{"fn":"buildSegments","args":[true],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"segmentLength","args":[{"from":{},"to":{},"pen":"up","shapeId":"😀"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":{"a":"b"},"to":{},"pen":"up","shapeId":"日本語のテキスト"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":[],"to":true,"pen":"up","shapeId":"a"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":["a",1],"to":["a",1],"pen":"up","shapeId":"a:b:cΣΊΣΥΦΟΣ"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":{"a":"b"},"to":{"a":"b"},"pen":"up","shapeId":"a😀b😀c"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":{},"to":["a",1],"pen":"down","shapeId":"HELLO"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":0,"to":"x","pen":"up","shapeId":"Hello World"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":["a",1],"to":null,"pen":"up","shapeId":"日本語のテキスト"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":{},"to":["a",1],"pen":"down","shapeId":"abc"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":0,"to":null,"pen":"down","shapeId":"a..b"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[true],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":["a",1],"to":{},"pen":"up","shapeId":"Hello Worlda"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":{"a":{"b":"c"}},"to":0,"pen":"up","shapeId":"  padded  "}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":true,"to":null,"pen":"up","shapeId":"ab"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":null,"to":true,"pen":"up","shapeId":".leading"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":[],"to":["a",1],"pen":"up","shapeId":".leadingabc"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":true,"to":"x","pen":"up","shapeId":"key_name-1a😀b😀c"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[[]],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":0,"to":["a",1],"pen":"down","shapeId":"a..b"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":null,"to":["a",1],"pen":"down","shapeId":"a..b"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":null,"to":["a",1],"pen":"up","shapeId":"😀"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":{},"to":{"a":"b"},"pen":"up","shapeId":"a..b"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":null,"to":{},"pen":"up","shapeId":"日本語のテキスト"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":{},"to":{"a":{"b":"c"}},"pen":"up","shapeId":"./x/**/*.json"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":0,"to":null,"pen":"up","shapeId":"é"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":["a",1],"to":null,"pen":"down","shapeId":"a.b.c"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":0,"to":{"a":"b"},"pen":"up","shapeId":"a.b.cline1\nline2"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":[],"to":null,"pen":"up","shapeId":".leading"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":true,"to":null,"pen":"up","shapeId":"a:b:c"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":0,"to":{},"pen":"down","shapeId":"line1\nline2"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":"x","to":null,"pen":"up","shapeId":"tab\tseparated"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":{},"to":{"a":{"b":"c"}},"pen":"up","shapeId":"İstanbul"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":null,"to":{"a":"b"},"pen":"down","shapeId":"a.b.cns:key.path"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":null,"to":"x","pen":"up","shapeId":"key_name-1"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":["a",1],"to":[],"pen":"up","shapeId":"src/a/b.ts"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":true,"to":[],"pen":"up","shapeId":"tab\tseparated"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":null,"to":{"a":{"b":"c"}},"pen":"up","shapeId":"ünïcödé"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":0,"to":{"a":"b"},"pen":"up","shapeId":"a😀b😀cab"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":{"a":"b"},"to":"x","pen":"up","shapeId":"a:b:c"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":null,"to":0,"pen":"up","shapeId":"tab\tseparated"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":null,"to":0,"pen":"up","shapeId":"hello world"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":0,"to":{},"pen":"up","shapeId":"straße"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":["a",1],"to":{"a":"b"},"pen":"down","shapeId":"ns:key.path"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":0,"to":{"a":{"b":"c"}},"pen":"down","shapeId":"HELLO"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":"x","to":[],"pen":"down","shapeId":"tab\tseparated"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":{},"to":{},"pen":"up","shapeId":".leadinga😀b😀c"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":null,"to":{"a":"b"},"pen":"up","shapeId":":﻿bom"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[null],"error":"Cannot read properties of null (reading 'to')"}
+{"fn":"segmentLength","args":[{"from":"x","to":{},"pen":"up","shapeId":"{name} has {count} items"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":["a",1],"to":["a",1],"pen":"down","shapeId":"é"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":0,"to":null,"pen":"up","shapeId":".leadinghello"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":{"a":{"b":"c"}},"to":["a",1],"pen":"up","shapeId":"ünïcödé"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":null,"to":{"a":"b"},"pen":"up","shapeId":""}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":{"a":{"b":"c"}},"to":{"a":{"b":"c"}},"pen":"down","shapeId":"İstanbul"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":["a",1],"to":null,"pen":"up","shapeId":"src/a/b.ts"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":true,"to":{"a":"b"},"pen":"up","shapeId":"ünïcödé"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":["a",1],"to":0,"pen":"up","shapeId":"line1\nline2İstanbul"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[["a",1]],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":true,"to":[],"pen":"up","shapeId":"hello world"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":["a",1],"to":{},"pen":"up","shapeId":"tab\tseparated"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":null,"to":true,"pen":"up","shapeId":"key_name-1"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":true,"to":true,"pen":"down","shapeId":"﻿bom"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":"x","to":[],"pen":"down","shapeId":"ab"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":{"a":"b"},"to":{"a":{"b":"c"}},"pen":"up","shapeId":"straße"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":{},"to":[],"pen":"up","shapeId":"src/a/b.ts"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":{"a":"b"},"to":{},"pen":"up","shapeId":"{name} has {count} items"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":null,"to":"x","pen":"up","shapeId":"./x/**/*.json"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":true,"to":["a",1],"pen":"down","shapeId":"İstanbul"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":null,"to":{},"pen":"down","shapeId":"./x/**/*.json"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":{"a":{"b":"c"}},"to":true,"pen":"up","shapeId":"a.b.c"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":true,"to":{},"pen":"up","shapeId":"a.b.c"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":0,"to":{"a":{"b":"c"}},"pen":"down","shapeId":"İstanbul"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":[],"to":{"a":"b"},"pen":"up","shapeId":"ns:key.pathünïcödé"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":true,"to":{},"pen":"down","shapeId":""}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":{},"to":null,"pen":"down","shapeId":"line1\nline2"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":{"a":{"b":"c"}},"to":"x","pen":"down","shapeId":"ΣΊΣΥΦΟΣ"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":{},"to":["a",1],"pen":"down","shapeId":"ünïcödé"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":true,"to":[],"pen":"up","shapeId":"a😀b😀chello"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":true,"to":{},"pen":"up","shapeId":":"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":{"a":"b"},"to":["a",1],"pen":"down","shapeId":"Hello World"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":null,"to":{},"pen":"down","shapeId":"a..b"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":"x","to":true,"pen":"up","shapeId":":"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":["a",1],"to":0,"pen":"up","shapeId":"ünïcödé"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":0,"to":{"a":"b"},"pen":"up","shapeId":"./x/**/*.json"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":["a",1],"to":{},"pen":"up","shapeId":"a😀b😀c"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":[],"to":"x","pen":"up","shapeId":"ns:key.path"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":{"a":{"b":"c"}},"to":["a",1],"pen":"up","shapeId":"😀"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":true,"to":"x","pen":"up","shapeId":"ahello world"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":{},"to":null,"pen":"up","shapeId":"./x/**/*.json"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":{},"to":[],"pen":"up","shapeId":"hello"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":true,"to":["a",1],"pen":"down","shapeId":"a..b"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":"x","to":null,"pen":"up","shapeId":"hello"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":[],"to":{"a":"b"},"pen":"down","shapeId":".leading"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":{"a":{"b":"c"}},"to":{"a":"b"},"pen":"up","shapeId":"HELLO{name} has {count} items"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":{},"to":null,"pen":"up","shapeId":"line1\nline2"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"segmentLength","args":[0],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"segmentLength","args":[{"from":"x","to":0,"pen":"down","shapeId":"emoji 👍🏽 mix"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":{"a":{"b":"c"}},"to":true,"pen":"up","shapeId":"﻿bom"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":{},"to":0,"pen":"down","shapeId":"a.b.c"}],"ok":{"$num":"NaN"}}
+{"fn":"segmentLength","args":[{"from":[],"to":"x","pen":"up","shapeId":"a.b.c"}],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[{}],"error":"segments.reduce is not a function"}
+{"fn":"totalDistance","args":[null],"error":"Cannot read properties of null (reading 'reduce')"}
+{"fn":"totalDistance","args":[[]],"ok":0}
+{"fn":"totalDistance","args":[[{"from":true,"to":null,"pen":"up","shapeId":"abc"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":{"a":"b"},"to":[],"pen":"up","shapeId":"trailing."},{"from":{},"to":null,"pen":"up","shapeId":"src/a/b.ts"},{"from":{"a":{"b":"c"}},"to":0,"pen":"up","shapeId":"hello world"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":0,"to":0,"pen":"up","shapeId":"a:b:c"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":[],"to":"x","pen":"up","shapeId":"ΣΊΣΥΦΟΣ"},{"from":true,"to":{"a":"b"},"pen":"up","shapeId":"Hello World"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":["a",1],"to":{},"pen":"down","shapeId":"src/a/b.ts﻿bom"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{"a":"b"},"to":["a",1],"pen":"down","shapeId":"a..b"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{"a":{"b":"c"}},"to":{"a":"b"},"pen":"up","shapeId":"ab"},{"from":{"a":{"b":"c"}},"to":["a",1],"pen":"up","shapeId":"a😀b😀c"},{"from":{},"to":true,"pen":"down","shapeId":"  padded  "}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":"x","to":0,"pen":"down","shapeId":""},{"from":["a",1],"to":["a",1],"pen":"up","shapeId":"line1\nline2"},{"from":["a",1],"to":{},"pen":"down","shapeId":"Hello World"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{"a":"b"},"to":{},"pen":"down","shapeId":"a.b.cünïcödé"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{"a":{"b":"c"}},"to":["a",1],"pen":"up","shapeId":"key_name-1"},{"from":[],"to":"x","pen":"down","shapeId":"line1\nline2"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":true,"to":["a",1],"pen":"up","shapeId":"abc"},{"from":true,"to":{"a":{"b":"c"}},"pen":"down","shapeId":"src/a/b.ts"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":"x","to":"x","pen":"down","shapeId":"abc  padded  "},{"from":{"a":"b"},"to":[],"pen":"down","shapeId":"HELLO  padded  "},{"from":null,"to":0,"pen":"down","shapeId":"  padded  "}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":{"a":{"b":"c"}},"to":true,"pen":"down","shapeId":"{name} has {count} items"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":"x","to":{"a":{"b":"c"}},"pen":"up","shapeId":"HELLO"},{"from":0,"to":0,"pen":"up","shapeId":"HELLO"},{"from":[],"to":{"a":"b"},"pen":"down","shapeId":"日本語のテキスト"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":true,"to":[],"pen":"down","shapeId":"line1\nline2"},{"from":{"a":"b"},"to":[],"pen":"down","shapeId":"ns:key.path"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{},"to":{"a":{"b":"c"}},"pen":"up","shapeId":"ab"},{"from":[],"to":null,"pen":"up","shapeId":"a😀b😀c"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":true,"to":["a",1],"pen":"up","shapeId":"emoji 👍🏽 mix  padded  "},{"from":["a",1],"to":{"a":{"b":"c"}},"pen":"down","shapeId":"tab\tseparated"},{"from":true,"to":["a",1],"pen":"down","shapeId":"İstanbul"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":0,"to":{},"pen":"up","shapeId":"trailing."}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":"x","to":"x","pen":"down","shapeId":"straße"},{"from":"x","to":{"a":{"b":"c"}},"pen":"down","shapeId":"src/a/b.ts"},{"from":"x","to":{"a":{"b":"c"}},"pen":"down","shapeId":"trailing."}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{"a":{"b":"c"}},"to":null,"pen":"down","shapeId":"trailing."},{"from":{"a":{"b":"c"}},"to":null,"pen":"down","shapeId":"a.b.c"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":[],"to":[],"pen":"up","shapeId":"a"},{"from":"x","to":true,"pen":"up","shapeId":"src/a/b.ts"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":["a",1],"to":[],"pen":"down","shapeId":"ns:key.path"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":["a",1],"to":null,"pen":"up","shapeId":"./x/**/*.json😀"},{"from":{"a":"b"},"to":"x","pen":"up","shapeId":"trailing."},{"from":{},"to":{"a":{"b":"c"}},"pen":"down","shapeId":"﻿bom"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":null,"to":null,"pen":"down","shapeId":"tab\tseparated"},{"from":0,"to":null,"pen":"down","shapeId":"trailing."}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[true],"error":"segments.reduce is not a function"}
+{"fn":"totalDistance","args":[[{"from":{"a":"b"},"to":0,"pen":"up","shapeId":"Hello World"},{"from":["a",1],"to":{},"pen":"down","shapeId":"ΣΊΣΥΦΟΣab"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":"x","to":{},"pen":"up","shapeId":"hello world"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{},"to":null,"pen":"down","shapeId":"key_name-1"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":{"a":{"b":"c"}},"to":{},"pen":"down","shapeId":"Hello World"},{"from":0,"to":0,"pen":"down","shapeId":""}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{"a":{"b":"c"}},"to":0,"pen":"up","shapeId":"a😀b😀c"},{"from":0,"to":0,"pen":"up","shapeId":".leading"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{"a":"b"},"to":{},"pen":"up","shapeId":"trailing.tab\tseparated"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{},"to":"x","pen":"up","shapeId":"hello world"},{"from":{"a":"b"},"to":"x","pen":"down","shapeId":"trailing."},{"from":"x","to":[],"pen":"up","shapeId":"日本語のテキスト"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":[],"to":{},"pen":"down","shapeId":"HELLO"},{"from":["a",1],"to":["a",1],"pen":"down","shapeId":"tab\tseparated"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{},"to":0,"pen":"down","shapeId":"line1\nline2"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{"a":{"b":"c"}},"to":["a",1],"pen":"up","shapeId":"  padded  "},{"from":{"a":{"b":"c"}},"to":["a",1],"pen":"up","shapeId":"./x/**/*.json"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":null,"to":["a",1],"pen":"up","shapeId":"tab\tseparated"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":{},"to":0,"pen":"down","shapeId":"helloa..b"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{"a":"b"},"to":true,"pen":"up","shapeId":"﻿bom"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":["x"],"error":"segments.reduce is not a function"}
+{"fn":"totalDistance","args":[[{"from":0,"to":["a",1],"pen":"up","shapeId":"﻿bomünïcödé"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":["a",1],"to":"x","pen":"down","shapeId":"İstanbul"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":[],"to":[],"pen":"up","shapeId":"tab\tseparated"},{"from":{"a":{"b":"c"}},"to":0,"pen":"up","shapeId":"a:b:cHello World"},{"from":true,"to":null,"pen":"down","shapeId":"ab"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":["a",1],"to":["a",1],"pen":"down","shapeId":"straße"},{"from":0,"to":null,"pen":"down","shapeId":"a..b"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":true,"to":null,"pen":"down","shapeId":"a.b.c"},{"from":"x","to":0,"pen":"up","shapeId":"😀"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":true,"to":true,"pen":"down","shapeId":"ΣΊΣΥΦΟΣ"},{"from":{},"to":{},"pen":"up","shapeId":"trailing."},{"from":true,"to":{"a":"b"},"pen":"up","shapeId":""}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":["a",1],"to":"x","pen":"up","shapeId":"hello world"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{"a":"b"},"to":true,"pen":"up","shapeId":"ns:key.path"},{"from":{},"to":{"a":{"b":"c"}},"pen":"down","shapeId":"hello world"},{"from":null,"to":{},"pen":"down","shapeId":"﻿bomHELLO"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":null,"to":true,"pen":"up","shapeId":"ns:key.path"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":{"a":{"b":"c"}},"to":[],"pen":"down","shapeId":".leading"},{"from":{"a":"b"},"to":[],"pen":"down","shapeId":"./x/**/*.json"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":[],"to":0,"pen":"down","shapeId":"key_name-1"},{"from":["a",1],"to":{"a":{"b":"c"}},"pen":"down","shapeId":"日本語のテキスト"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":true,"to":[],"pen":"up","shapeId":"a😀b😀cHello World"},{"from":{},"to":null,"pen":"down","shapeId":"hello world"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":null,"to":null,"pen":"down","shapeId":"a😀b😀c"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":[],"to":{},"pen":"down","shapeId":"HELLO"},{"from":null,"to":[],"pen":"up","shapeId":"é"},{"from":{},"to":true,"pen":"down","shapeId":"trailing."}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":0,"to":{"a":{"b":"c"}},"pen":"down","shapeId":"ab"},{"from":{"a":{"b":"c"}},"to":"x","pen":"up","shapeId":"trailing.a"},{"from":{"a":"b"},"to":null,"pen":"up","shapeId":"a.b.c"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[["a",1]],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":null,"to":["a",1],"pen":"up","shapeId":"a..bstraße"},{"from":{"a":"b"},"to":"x","pen":"up","shapeId":"line1\nline2"},{"from":[],"to":{},"pen":"down","shapeId":"hello world"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":0,"to":[],"pen":"down","shapeId":""}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{"a":{"b":"c"}},"to":true,"pen":"up","shapeId":"a:b:chello world"},{"from":[],"to":0,"pen":"up","shapeId":"hello worldab"},{"from":0,"to":[],"pen":"down","shapeId":"﻿bom"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":[],"to":["a",1],"pen":"up","shapeId":"ΣΊΣΥΦΟΣ"},{"from":{"a":"b"},"to":true,"pen":"down","shapeId":"日本語のテキスト"},{"from":["a",1],"to":[],"pen":"down","shapeId":"src/a/b.ts"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":null,"to":null,"pen":"up","shapeId":"abc"},{"from":{},"to":null,"pen":"up","shapeId":"{name} has {count} items"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":null,"to":["a",1],"pen":"down","shapeId":"a:b:c"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":{"a":{"b":"c"}},"to":{"a":"b"},"pen":"up","shapeId":"abca"},{"from":{"a":"b"},"to":null,"pen":"up","shapeId":"a..b"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":{"a":"b"},"to":[],"pen":"up","shapeId":"aba:b:c"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":"x","to":{},"pen":"up","shapeId":"straße"},{"from":null,"to":[],"pen":"up","shapeId":"straße"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":"x","to":0,"pen":"up","shapeId":"hello"},{"from":[],"to":[],"pen":"down","shapeId":"emoji 👍🏽 mix"},{"from":"x","to":{},"pen":"down","shapeId":"hello"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{"a":"b"},"to":null,"pen":"down","shapeId":"HELLOa😀b😀c"},{"from":{},"to":["a",1],"pen":"down","shapeId":"﻿bom"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":true,"to":["a",1],"pen":"up","shapeId":"tab\tseparated"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{},"to":{"a":{"b":"c"}},"pen":"up","shapeId":"straße"},{"from":[],"to":{"a":{"b":"c"}},"pen":"down","shapeId":"HELLO"},{"from":{"a":{"b":"c"}},"to":["a",1],"pen":"down","shapeId":"abc"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":"x","to":[],"pen":"down","shapeId":"a.b.c"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":[],"to":{},"pen":"up","shapeId":"{name} has {count} items"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{},"to":{},"pen":"down","shapeId":"a:b:c"},{"from":{"a":{"b":"c"}},"to":{"a":{"b":"c"}},"pen":"up","shapeId":"emoji 👍🏽 mix"},{"from":"x","to":null,"pen":"up","shapeId":"İstanbul"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":{"a":{"b":"c"}},"to":true,"pen":"down","shapeId":"emoji 👍🏽 mix"},{"from":0,"to":null,"pen":"down","shapeId":"{name} has {count} items"},{"from":true,"to":{"a":"b"},"pen":"up","shapeId":":"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":null,"to":{"a":"b"},"pen":"down","shapeId":"src/a/b.ts"},{"from":[],"to":true,"pen":"up","shapeId":"src/a/b.tsé"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":["a",1],"to":["a",1],"pen":"down","shapeId":"😀"},{"from":{"a":"b"},"to":{},"pen":"down","shapeId":":"},{"from":true,"to":true,"pen":"up","shapeId":"straße"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":true,"to":{},"pen":"down","shapeId":"a😀b😀c"},{"from":true,"to":[],"pen":"up","shapeId":"a.b.ctrailing."},{"from":["a",1],"to":{"a":{"b":"c"}},"pen":"up","shapeId":"abc"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":null,"to":[],"pen":"up","shapeId":"line1\nline2"},{"from":"x","to":null,"pen":"up","shapeId":"😀"},{"from":["a",1],"to":["a",1],"pen":"up","shapeId":"﻿bom"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":0,"to":0,"pen":"down","shapeId":"ns:key.pathhello"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":0,"to":{"a":{"b":"c"}},"pen":"up","shapeId":"hello"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{"a":"b"},"to":null,"pen":"down","shapeId":"  padded  "},{"from":{},"to":null,"pen":"down","shapeId":":İstanbul"},{"from":{"a":"b"},"to":true,"pen":"down","shapeId":"ΣΊΣΥΦΟΣ"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":[],"to":"x","pen":"up","shapeId":"a"},{"from":["a",1],"to":["a",1],"pen":"down","shapeId":"a:b:c"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{},"to":"x","pen":"down","shapeId":"ns:key.path"},{"from":true,"to":"x","pen":"down","shapeId":"hello"},{"from":true,"to":{},"pen":"up","shapeId":"hello"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":[],"to":{"a":"b"},"pen":"up","shapeId":"abc"},{"from":"x","to":["a",1],"pen":"down","shapeId":"﻿bom"},{"from":true,"to":"x","pen":"down","shapeId":"{name} has {count} items"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":[],"to":null,"pen":"down","shapeId":"﻿bom"},{"from":true,"to":"x","pen":"up","shapeId":"😀.leading"},{"from":null,"to":0,"pen":"up","shapeId":"src/a/b.ts"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":["a",1],"to":"x","pen":"up","shapeId":"  padded  İstanbul"},{"from":{"a":{"b":"c"}},"to":"x","pen":"up","shapeId":":"},{"from":["a",1],"to":null,"pen":"down","shapeId":":"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":{"a":"b"},"to":true,"pen":"up","shapeId":"src/a/b.ts"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":["a",1],"to":0,"pen":"down","shapeId":"HELLO"},{"from":"x","to":{"a":{"b":"c"}},"pen":"up","shapeId":"line1\nline2"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{"a":{"b":"c"}},"to":0,"pen":"up","shapeId":"trailing.:"},{"from":null,"to":"x","pen":"up","shapeId":"ns:key.path日本語のテキスト"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[{"a":{"b":"c"}}],"error":"segments.reduce is not a function"}
+{"fn":"totalDistance","args":[[{"from":{"a":{"b":"c"}},"to":[],"pen":"down","shapeId":"a😀b😀c"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":0,"to":{"a":"b"},"pen":"down","shapeId":"hello world"},{"from":true,"to":{},"pen":"down","shapeId":"a"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":"x","to":{},"pen":"down","shapeId":"abc"},{"from":{"a":{"b":"c"}},"to":"x","pen":"down","shapeId":"straße"},{"from":{"a":"b"},"to":{},"pen":"down","shapeId":"trailing."}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":0,"to":{},"pen":"up","shapeId":"ΣΊΣΥΦΟΣ"},{"from":{"a":{"b":"c"}},"to":[],"pen":"up","shapeId":"line1\nline2"},{"from":{"a":{"b":"c"}},"to":{},"pen":"down","shapeId":"key_name-1"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{"a":{"b":"c"}},"to":{"a":"b"},"pen":"up","shapeId":"ns:key.path"},{"from":{},"to":null,"pen":"up","shapeId":"a.b.c"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":[],"to":["a",1],"pen":"up","shapeId":"hello"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":{},"to":0,"pen":"down","shapeId":"a..b"},{"from":null,"to":["a",1],"pen":"up","shapeId":"a.b.c"}]],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"totalDistance","args":[[{"from":true,"to":"x","pen":"up","shapeId":"hello world"}]],"ok":{"$num":"NaN"}}
+{"fn":"totalDistance","args":[[{"from":0,"to":["a",1],"pen":"up","shapeId":"hello worlda😀b😀c"}]],"ok":{"$num":"NaN"}}
+{"fn":"documentStats","args":[{"a":{"b":"c"}}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"documentStats","args":[{}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"documentStats","args":[["a",1]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"documentStats","args":[true],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"documentStats","args":[null],"error":"Cannot read properties of null (reading 'layers')"}
+{"fn":"documentStats","args":["x"],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"documentStats","args":[{"a":"b"}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"documentStats","args":[[]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"documentStats","args":[0],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"pointOnSegment","args":[{"from":{"a":{"b":"c"}},"to":0,"pen":"up","shapeId":"a.b.c"},10],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":true,"to":{},"pen":"down","shapeId":"line1\nline2:"},100],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":["a",1],"to":["a",1],"pen":"up","shapeId":":"},3],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":0,"to":null,"pen":"down","shapeId":"abc"},100],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"pointOnSegment","args":[true,0.5],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":null,"to":["a",1],"pen":"down","shapeId":"{name} has {count} items"},{"$num":"-Infinity"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":null,"to":"x","pen":"down","shapeId":"straße"},2],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":0,"to":0,"pen":"up","shapeId":"line1\nline2"},{"$num":"Infinity"}],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":true,"to":0,"pen":"down","shapeId":"src/a/b.ts"},3],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[[],42],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":{},"to":0,"pen":"down","shapeId":"  padded  "},{"$num":"NaN"}],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":["a",1],"to":"x","pen":"up","shapeId":"./x/**/*.json"},-2.5],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":null,"to":"x","pen":"down","shapeId":".leading"},10],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":["a",1],"to":true,"pen":"down","shapeId":"ΣΊΣΥΦΟΣ"},-2.5],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":"b"},"to":{"a":"b"},"pen":"down","shapeId":"hello"},10],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":"b"},"to":{},"pen":"up","shapeId":"İstanbul./x/**/*.json"},100],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"a":{"b":"c"}},42],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"pointOnSegment","args":[["a",1],9007199254740992],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":{},"to":["a",1],"pen":"down","shapeId":"é"},{"$num":"-Infinity"}],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{},"to":0,"pen":"down","shapeId":"{name} has {count} items"},1000],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":"x","to":null,"pen":"down","shapeId":"helloemoji 👍🏽 mix"},10],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"a":"b"},0.5],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":{},"to":["a",1],"pen":"up","shapeId":"key_name-1"},1],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":"b"},"to":{"a":"b"},"pen":"down","shapeId":"./x/**/*.json"},0],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":null,"to":{"a":"b"},"pen":"up","shapeId":"﻿bom"},{"$num":"-0"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"pointOnSegment","args":[0,42],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":["a",1],"to":{"a":"b"},"pen":"up","shapeId":"  padded  "},1],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":true,"to":true,"pen":"down","shapeId":"日本語のテキストtrailing."},-1],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":0,"to":[],"pen":"down","shapeId":"ns:key.path"},{"$num":"-Infinity"}],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":null,"to":{},"pen":"down","shapeId":"ΣΊΣΥΦΟΣ"},{"$num":"NaN"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":0,"to":[],"pen":"down","shapeId":"hello worldstraße"},1000000],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":["a",1],"to":null,"pen":"down","shapeId":"abc"},9007199254740992],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":null,"to":0,"pen":"down","shapeId":"key_name-1"},2],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":["a",1],"to":[],"pen":"up","shapeId":"😀"},1000],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":0,"to":0,"pen":"down","shapeId":"﻿bom"},0.5],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":[],"to":0,"pen":"up","shapeId":"trailing.ünïcödé"},{"$num":"NaN"}],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":["a",1],"to":"x","pen":"down","shapeId":"{name} has {count} items"},42],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":["a",1],"to":["a",1],"pen":"up","shapeId":"ab"},{"$num":"-Infinity"}],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":null,"to":[],"pen":"down","shapeId":"é"},10],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":null,"to":{},"pen":"up","shapeId":"hello world"},-2.5],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":"x","to":true,"pen":"down","shapeId":"Hello World"},0],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":["a",1],"to":{"a":"b"},"pen":"down","shapeId":"a😀"},100],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":{"b":"c"}},"to":["a",1],"pen":"down","shapeId":"src/a/b.ts"},1000],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{},"to":{},"pen":"up","shapeId":"a:b:c"},10],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":{"b":"c"}},"to":{"a":"b"},"pen":"up","shapeId":"key_name-1"},42],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":"x","to":{"a":"b"},"pen":"down","shapeId":"İstanbul"},{"$num":"-Infinity"}],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":{"b":"c"}},"to":"x","pen":"down","shapeId":"hello world"},2147483648],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[["a",1],10],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":{"a":"b"},"to":{"a":{"b":"c"}},"pen":"down","shapeId":"{name} has {count} items"},2],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":["a",1],"to":["a",1],"pen":"up","shapeId":"﻿bom"},2],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[true,42],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":[],"to":["a",1],"pen":"down","shapeId":"a"},1000000],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[[],1000000],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":["a",1],"to":["a",1],"pen":"up","shapeId":"hello"},{"$num":"NaN"}],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":true,"to":{"a":{"b":"c"}},"pen":"down","shapeId":"line1\nline2😀"},100],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":["a",1],"to":{"a":"b"},"pen":"up","shapeId":"a:b:c"},{"$num":"NaN"}],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{},3],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":null,"to":{"a":"b"},"pen":"down","shapeId":"İstanbul"},0.5],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"pointOnSegment","args":[0,-2.5],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"pointOnSegment","args":[null,{"$num":"Infinity"}],"error":"Cannot read properties of null (reading 'from')"}
+{"fn":"pointOnSegment","args":[{"from":{},"to":null,"pen":"up","shapeId":"tab\tseparated"},{"$num":"-Infinity"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"pointOnSegment","args":[{},0.5],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":0,"to":{"a":"b"},"pen":"down","shapeId":"ns:key.path"},0.5],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":["a",1],"to":[],"pen":"up","shapeId":"ns:key.path"},42],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":true,"to":true,"pen":"up","shapeId":"ünïcödé"},1],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":[],"to":["a",1],"pen":"down","shapeId":"😀"},3],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":"b"},"to":["a",1],"pen":"up","shapeId":"./x/**/*.json日本語のテキスト"},1000000],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":0,"to":{"a":{"b":"c"}},"pen":"up","shapeId":"ΣΊΣΥΦΟΣ"},3],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":["a",1],"to":0,"pen":"up","shapeId":"a:b:c"},{"$num":"-0"}],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"a":{"b":"c"}},3],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":{"a":{"b":"c"}},"to":true,"pen":"up","shapeId":"trailing."},0.5],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[true,2147483648],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":"x","to":{"a":"b"},"pen":"down","shapeId":"ΣΊΣΥΦΟΣ"},1000],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":"x","to":{},"pen":"up","shapeId":"emoji 👍🏽 mix"},3],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":0,"to":["a",1],"pen":"up","shapeId":""},{"$num":"Infinity"}],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":"x","to":[],"pen":"down","shapeId":".leading"},-1],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":["a",1],"to":["a",1],"pen":"down","shapeId":"key_name-1﻿bom"},2],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":0,"to":{"a":"b"},"pen":"down","shapeId":"HELLO"},0.5],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":["x",3],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":0,"to":{"a":"b"},"pen":"down","shapeId":"日本語のテキスト./x/**/*.json"},-1],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":["a",1],"to":true,"pen":"down","shapeId":"aünïcödé"},2147483648],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":"x","to":[],"pen":"down","shapeId":"a:b:c"},1000000],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":"b"},"to":"x","pen":"down","shapeId":"Hello Worlda:b:c"},42],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":{"b":"c"}},"to":["a",1],"pen":"down","shapeId":"abc"},2147483648],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":{"b":"c"}},"to":{"a":{"b":"c"}},"pen":"up","shapeId":"ünïcödé"},2147483648],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"a":{"b":"c"}},-1],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":true,"to":null,"pen":"down","shapeId":"a"},100],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":"x","to":true,"pen":"down","shapeId":"tab\tseparated"},-2.5],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":{"b":"c"}},"to":true,"pen":"up","shapeId":"  padded  "},0],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":true,"to":null,"pen":"down","shapeId":"HELLO"},{"$num":"Infinity"}],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"a":"b"},2147483648],"error":"Cannot read properties of undefined (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":{},"to":{"a":{"b":"c"}},"pen":"down","shapeId":"hello"},{"$num":"NaN"}],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":["a",1],"to":"x","pen":"down","shapeId":"a😀b😀c"},1],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":true,"to":{"a":{"b":"c"}},"pen":"up","shapeId":"ab"},42],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":null,"to":["a",1],"pen":"down","shapeId":"trailing../x/**/*.json"},2],"error":"Cannot read properties of null (reading 'x')"}
+{"fn":"pointOnSegment","args":[{"from":true,"to":true,"pen":"up","shapeId":"a.b.ckey_name-1"},3],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":0,"to":[],"pen":"up","shapeId":"hello"},0.5],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":0,"to":[],"pen":"up","shapeId":"﻿bom"},2147483648],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":{"b":"c"}},"to":{"a":{"b":"c"}},"pen":"up","shapeId":"line1\nline2"},2],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":{"b":"c"}},"to":true,"pen":"down","shapeId":"tab\tseparated"},9007199254740992],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":{"b":"c"}},"to":0,"pen":"up","shapeId":"a.b.c"},-7.5],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":{"b":"c"}},"to":0,"pen":"up","shapeId":"a.b.c"},0.1],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":{"b":"c"}},"to":0,"pen":"up","shapeId":"a.b.c"},0.30000000000000004],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":{"b":"c"}},"to":0,"pen":"up","shapeId":"a.b.c"},1e+21],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":{"b":"c"}},"to":0,"pen":"up","shapeId":"a.b.c"},1e-7],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":{"b":"c"}},"to":0,"pen":"up","shapeId":"a.b.c"},5e-324],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":{"b":"c"}},"to":0,"pen":"up","shapeId":"a.b.c"},1.7976931348623157e+308],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":{"b":"c"}},"to":0,"pen":"up","shapeId":"a.b.c"},9007199254740992],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"pointOnSegment","args":[{"from":{"a":{"b":"c"}},"to":0,"pen":"up","shapeId":"a.b.c"},{"$num":"-0"}],"ok":{"x":{"$num":"NaN"},"y":{"$num":"NaN"}}}
+{"fn":"clampToBed","args":[["a",1],{"a":"b"}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{"a":"b"},[]],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":["x",{"a":"b"}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[[],{}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[[],"x"],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{"a":{"b":"c"}},[]],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{"a":"b"},true],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[true,"x"],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[["a",1],true],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[0,{}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":["x",{}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":["x",null],"error":"Cannot read properties of null (reading 'bed')"}
+{"fn":"clampToBed","args":[["a",1],[]],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{"a":"b"},null],"error":"Cannot read properties of null (reading 'bed')"}
+{"fn":"clampToBed","args":[true,0],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[[],{"a":"b"}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[true,["a",1]],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[null,{"a":"b"}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":["x",{"a":{"b":"c"}}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[0,["a",1]],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[0,{"a":{"b":"c"}}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[[],{"a":{"b":"c"}}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{"a":{"b":"c"}},"x"],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[0,{"a":"b"}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[null,"x"],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{"a":"b"},{"a":{"b":"c"}}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[[],["a",1]],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[null,[]],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[true,{}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[null,0],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{},0],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{},{}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":["x",[]],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[null,{}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{},"x"],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{},{"a":"b"}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[0,true],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[true,[]],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[["a",1],{}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[0,0],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[true,null],"error":"Cannot read properties of null (reading 'bed')"}
+{"fn":"clampToBed","args":[true,{"a":"b"}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{},{"a":{"b":"c"}}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[[],0],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{"a":"b"},"x"],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[["a",1],"x"],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[["a",1],{"a":{"b":"c"}}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{},[]],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{},null],"error":"Cannot read properties of null (reading 'bed')"}
+{"fn":"clampToBed","args":[0,null],"error":"Cannot read properties of null (reading 'bed')"}
+{"fn":"clampToBed","args":[[],null],"error":"Cannot read properties of null (reading 'bed')"}
+{"fn":"clampToBed","args":[["a",1],null],"error":"Cannot read properties of null (reading 'bed')"}
+{"fn":"clampToBed","args":[0,[]],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[["a",1],["a",1]],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{"a":{"b":"c"}},["a",1]],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{"a":{"b":"c"}},{"a":"b"}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{"a":"b"},{"a":"b"}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":["x","x"],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{"a":{"b":"c"}},true],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[["a",1],0],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[true,true],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{"a":"b"},["a",1]],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":["x",true],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{"a":{"b":"c"}},0],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{},true],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{"a":"b"},0],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":["x",["a",1]],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[[],true],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{"a":{"b":"c"}},{"a":{"b":"c"}}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[0,"x"],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[[],[]],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[null,true],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[null,["a",1]],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[null,{"a":{"b":"c"}}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[true,{"a":{"b":"c"}}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{"a":{"b":"c"}},{}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{"a":"b"},{}],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":["x",0],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"clampToBed","args":[{"a":{"b":"c"}},null],"error":"Cannot read properties of null (reading 'bed')"}
+{"fn":"clampToBed","args":[null,null],"error":"Cannot read properties of null (reading 'bed')"}
+{"fn":"clampToBed","args":[{},["a",1]],"error":"Cannot read properties of undefined (reading 'width')"}
+{"fn":"toGcode","args":[{"a":{"b":"c"}},"x"],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[["a",1],0],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{},"x"],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{"a":{"b":"c"}},{"$undefined":true}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{"a":"b"},{"$undefined":true}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[0,[]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[["a",1],null],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{"a":{"b":"c"}}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{},["a",1]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[["a",1],{"$undefined":true}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[true,"x"],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[[],0],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{"a":"b"},{}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[0,{"a":"b"}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{"a":"b"},"x"],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{},[]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[0,{"a":{"b":"c"}}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{},true],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":["x",{}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[null,{"a":{"b":"c"}}],"error":"Cannot read properties of null (reading 'layers')"}
+{"fn":"toGcode","args":["x",["a",1]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[[],[]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[null,{"a":"b"}],"error":"Cannot read properties of null (reading 'layers')"}
+{"fn":"toGcode","args":["x",[]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[true,{"$undefined":true}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[true,[]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[[],"x"],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{"a":"b"},{"a":"b"}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[[],{}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{},null],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{"a":{"b":"c"}},{"a":{"b":"c"}}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[0,{"$undefined":true}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[[],true],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[[],{"a":{"b":"c"}}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[[],["a",1]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{},{"a":{"b":"c"}}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[["a",1],{}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[["a",1],{"a":{"b":"c"}}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":["x",null],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[null],"error":"Cannot read properties of null (reading 'layers')"}
+{"fn":"toGcode","args":[null,"x"],"error":"Cannot read properties of null (reading 'layers')"}
+{"fn":"toGcode","args":[0,["a",1]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{"a":"b"}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{},{"a":"b"}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[[]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[null,["a",1]],"error":"Cannot read properties of null (reading 'layers')"}
+{"fn":"toGcode","args":[{},{"$undefined":true}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":["x"],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{"a":"b"},null],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[true,null],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":["x",0],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[[],null],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{"a":{"b":"c"}},0],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[0],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[["a",1]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{},{}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[true,0],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[0,{}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{"a":"b"},{"a":{"b":"c"}}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[0,null],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[["a",1],true],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[null,null],"error":"Cannot read properties of null (reading 'layers')"}
+{"fn":"toGcode","args":["x",{"$undefined":true}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[true,{}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[0,0],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[true,["a",1]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[0,"x"],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[true,{"a":"b"}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[null,[]],"error":"Cannot read properties of null (reading 'layers')"}
+{"fn":"toGcode","args":[{"a":{"b":"c"}},["a",1]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[null,{"$undefined":true}],"error":"Cannot read properties of null (reading 'layers')"}
+{"fn":"toGcode","args":[0,true],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[true,true],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{"a":"b"},["a",1]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{"a":"b"},true],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{"a":{"b":"c"}},{}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[null,{}],"error":"Cannot read properties of null (reading 'layers')"}
+{"fn":"toGcode","args":[{},0],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[true,{"a":{"b":"c"}}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":["x",{"a":{"b":"c"}}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":["x","x"],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{"a":{"b":"c"}},[]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{"a":{"b":"c"}},{"a":"b"}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{"a":{"b":"c"}},true],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[["a",1],{"a":"b"}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{"a":"b"},0],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[["a",1],["a",1]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[null,0],"error":"Cannot read properties of null (reading 'layers')"}
+{"fn":"toGcode","args":["x",true],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{"a":"b"},[]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[{"a":{"b":"c"}},null],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[["a",1],[]],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[null,true],"error":"Cannot read properties of null (reading 'layers')"}
+{"fn":"toGcode","args":[["a",1],"x"],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":["x",{"a":"b"}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[true],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[[],{"$undefined":true}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":[[],{"a":"b"}],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"toGcode","args":["x","X"],"error":"Cannot read properties of undefined (reading 'filter')"}
+{"fn":"clamp","args":[1,0,0],"ok":0}
+{"fn":"clamp","args":[1000,{"$num":"NaN"},1],"ok":{"$num":"NaN"}}
+{"fn":"clamp","args":[{"$num":"NaN"},{"$num":"-0"},0],"ok":{"$num":"NaN"}}
+{"fn":"clamp","args":[100,10,42],"ok":42}
+{"fn":"clamp","args":[2147483648,3,100],"ok":100}
+{"fn":"clamp","args":[9007199254740992,-1,-2.5],"ok":-2.5}
+{"fn":"clamp","args":[10,1,100],"ok":10}
+{"fn":"clamp","args":[-2.5,100,1],"ok":1}
+{"fn":"clamp","args":[2147483648,{"$num":"NaN"},{"$num":"-0"}],"ok":{"$num":"NaN"}}
+{"fn":"clamp","args":[0.5,{"$num":"Infinity"},1],"ok":1}
+{"fn":"clamp","args":[42,{"$num":"-Infinity"},1],"ok":1}
+{"fn":"clamp","args":[-2.5,2,{"$num":"NaN"}],"ok":{"$num":"NaN"}}
+{"fn":"clamp","args":[{"$num":"NaN"},-1,42],"ok":{"$num":"NaN"}}
+{"fn":"clamp","args":[0.5,-2.5,9007199254740992],"ok":0.5}
+{"fn":"clamp","args":[{"$num":"Infinity"},{"$num":"-Infinity"},1000000],"ok":1000000}
+{"fn":"clamp","args":[{"$num":"-0"},1,2147483648],"ok":1}
+{"fn":"clamp","args":[1000000,1000,1000000],"ok":1000000}
+{"fn":"clamp","args":[2,-2.5,1000],"ok":2}
+{"fn":"clamp","args":[10,{"$num":"Infinity"},{"$num":"NaN"}],"ok":{"$num":"NaN"}}
+{"fn":"clamp","args":[1000,{"$num":"-0"},0.5],"ok":0.5}
+{"fn":"clamp","args":[-2.5,1,9007199254740992],"ok":1}
+{"fn":"clamp","args":[2,2147483648,2],"ok":2}
+{"fn":"clamp","args":[{"$num":"-0"},{"$num":"Infinity"},{"$num":"NaN"}],"ok":{"$num":"NaN"}}
+{"fn":"clamp","args":[-2.5,{"$num":"-0"},2],"ok":{"$num":"-0"}}
+{"fn":"clamp","args":[0,1000000,1],"ok":1}
+{"fn":"clamp","args":[10,2,0],"ok":0}
+{"fn":"clamp","args":[{"$num":"-Infinity"},2,100],"ok":2}
+{"fn":"clamp","args":[{"$num":"NaN"},{"$num":"-Infinity"},-1],"ok":{"$num":"NaN"}}
+{"fn":"clamp","args":[0,-1,-2.5],"ok":-2.5}
+{"fn":"clamp","args":[0.5,-2.5,0.5],"ok":0.5}
+{"fn":"clamp","args":[-2.5,1,{"$num":"NaN"}],"ok":{"$num":"NaN"}}
+{"fn":"clamp","args":[0,0,0.5],"ok":0}
+{"fn":"clamp","args":[3,0.5,9007199254740992],"ok":3}
+{"fn":"clamp","args":[0,10,2147483648],"ok":10}
+{"fn":"clamp","args":[3,9007199254740992,-2.5],"ok":-2.5}
+{"fn":"clamp","args":[3,2147483648,{"$num":"-Infinity"}],"ok":{"$num":"-Infinity"}}
+{"fn":"clamp","args":[{"$num":"-0"},3,{"$num":"-0"}],"ok":{"$num":"-0"}}
+{"fn":"clamp","args":[{"$num":"Infinity"},{"$num":"-Infinity"},{"$num":"-0"}],"ok":{"$num":"-0"}}
+{"fn":"clamp","args":[2147483648,1,2147483648],"ok":2147483648}
+{"fn":"clamp","args":[1,{"$num":"Infinity"},9007199254740992],"ok":9007199254740992}
+{"fn":"clamp","args":[9007199254740992,{"$num":"Infinity"},1000],"ok":1000}
+{"fn":"clamp","args":[0.5,{"$num":"-Infinity"},3],"ok":0.5}
+{"fn":"clamp","args":[1000,100,{"$num":"Infinity"}],"ok":1000}
+{"fn":"clamp","args":[9007199254740992,-1,-1],"ok":-1}
+{"fn":"clamp","args":[{"$num":"-0"},{"$num":"Infinity"},1],"ok":1}
+{"fn":"clamp","args":[42,1000000,9007199254740992],"ok":1000000}
+{"fn":"clamp","args":[10,42,0],"ok":0}
+{"fn":"clamp","args":[10,-2.5,1000],"ok":10}
+{"fn":"clamp","args":[0,1000000,3],"ok":3}
+{"fn":"clamp","args":[-2.5,-1,-2.5],"ok":-2.5}
+{"fn":"clamp","args":[9007199254740992,2147483648,-2.5],"ok":-2.5}
+{"fn":"clamp","args":[10,{"$num":"Infinity"},10],"ok":10}
+{"fn":"clamp","args":[2147483648,10,9007199254740992],"ok":2147483648}
+{"fn":"clamp","args":[0.5,0.5,{"$num":"-Infinity"}],"ok":{"$num":"-Infinity"}}
+{"fn":"clamp","args":[-2.5,10,-1],"ok":-1}
+{"fn":"clamp","args":[0.5,{"$num":"Infinity"},{"$num":"-Infinity"}],"ok":{"$num":"-Infinity"}}
+{"fn":"clamp","args":[3,2,0.5],"ok":0.5}
+{"fn":"clamp","args":[2,0.5,{"$num":"Infinity"}],"ok":2}
+{"fn":"clamp","args":[0,10,1000000],"ok":10}
+{"fn":"clamp","args":[{"$num":"Infinity"},-2.5,42],"ok":42}
+{"fn":"clamp","args":[{"$num":"NaN"},1000,1000000],"ok":{"$num":"NaN"}}
+{"fn":"clamp","args":[{"$num":"-Infinity"},{"$num":"Infinity"},9007199254740992],"ok":9007199254740992}
+{"fn":"clamp","args":[10,0.5,{"$num":"NaN"}],"ok":{"$num":"NaN"}}
+{"fn":"clamp","args":[{"$num":"NaN"},-2.5,0.5],"ok":{"$num":"NaN"}}
+{"fn":"clamp","args":[-1,0.5,1000],"ok":0.5}
+{"fn":"clamp","args":[100,1000000,100],"ok":100}
+{"fn":"clamp","args":[{"$num":"-0"},0.5,{"$num":"NaN"}],"ok":{"$num":"NaN"}}
+{"fn":"clamp","args":[1,10,1000],"ok":10}
+{"fn":"clamp","args":[{"$num":"Infinity"},{"$num":"Infinity"},1000],"ok":1000}
+{"fn":"clamp","args":[2147483648,1,{"$num":"-0"}],"ok":{"$num":"-0"}}
+{"fn":"clamp","args":[-1,0,{"$num":"Infinity"}],"ok":0}
+{"fn":"clamp","args":[{"$num":"NaN"},42,9007199254740992],"ok":{"$num":"NaN"}}
+{"fn":"clamp","args":[{"$num":"-0"},2147483648,42],"ok":42}
+{"fn":"clamp","args":[2147483648,-1,1000000],"ok":1000000}
+{"fn":"clamp","args":[1000000,{"$num":"-0"},-1],"ok":-1}
+{"fn":"clamp","args":[100,0.5,1000000],"ok":100}
+{"fn":"clamp","args":[{"$num":"NaN"},3,1000000],"ok":{"$num":"NaN"}}
+{"fn":"clamp","args":[2147483648,10,3],"ok":3}
+{"fn":"clamp","args":[1000000,9007199254740992,1000000],"ok":1000000}
+{"fn":"clamp","args":[{"$num":"NaN"},0.5,9007199254740992],"ok":{"$num":"NaN"}}
+{"fn":"clamp","args":[1,-2.5,2],"ok":1}
+{"fn":"clamp","args":[100,100,2],"ok":2}
+{"fn":"clamp","args":[{"$num":"NaN"},1,{"$num":"-Infinity"}],"ok":{"$num":"NaN"}}
+{"fn":"clamp","args":[10,1,2147483648],"ok":10}
+{"fn":"clamp","args":[10,42,{"$num":"-Infinity"}],"ok":{"$num":"-Infinity"}}
+{"fn":"clamp","args":[1000000,100,100],"ok":100}
+{"fn":"clamp","args":[{"$num":"NaN"},10,{"$num":"NaN"}],"ok":{"$num":"NaN"}}
+{"fn":"clamp","args":[-1,0,-1],"ok":-1}
+{"fn":"clamp","args":[0.5,3,42],"ok":3}
+{"fn":"clamp","args":[1000000,100,0.5],"ok":0.5}
+{"fn":"clamp","args":[2147483648,0.5,{"$num":"Infinity"}],"ok":2147483648}
+{"fn":"clamp","args":[100,1000,{"$num":"Infinity"}],"ok":1000}
+{"fn":"clamp","args":[{"$num":"Infinity"},1,1000000],"ok":1000000}
+{"fn":"clamp","args":[2,{"$num":"Infinity"},10],"ok":10}
+{"fn":"clamp","args":[42,{"$num":"Infinity"},0],"ok":0}
+{"fn":"clamp","args":[2147483648,{"$num":"-0"},{"$num":"-0"}],"ok":{"$num":"-0"}}
+{"fn":"clamp","args":[1,1000,10],"ok":10}
+{"fn":"clamp","args":[1000,10,{"$num":"NaN"}],"ok":{"$num":"NaN"}}
+{"fn":"clamp","args":[100,-1,{"$num":"-0"}],"ok":{"$num":"-0"}}
+{"fn":"clamp","args":[0.5,0,0],"ok":0}
+{"fn":"clamp","args":[-7.5,0,0],"ok":0}
+{"fn":"clamp","args":[0.1,0,0],"ok":0}
+{"fn":"clamp","args":[0.30000000000000004,0,0],"ok":0}
+{"fn":"clamp","args":[1e+21,0,0],"ok":0}
+{"fn":"clamp","args":[1e-7,0,0],"ok":0}
+{"fn":"clamp","args":[5e-324,0,0],"ok":0}
+{"fn":"clamp","args":[1.7976931348623157e+308,0,0],"ok":0}
+{"fn":"clamp","args":[9007199254740992,0,0],"ok":0}
+{"fn":"clamp","args":[{"$num":"-0"},0,0],"ok":0}
+{"fn":"clamp","args":[1,-7.5,0],"ok":0}
+{"fn":"clamp","args":[1,0.1,0],"ok":0}
+{"fn":"clamp","args":[1,0.30000000000000004,0],"ok":0}
+{"fn":"clamp","args":[1,1e+21,0],"ok":0}
+{"fn":"clamp","args":[1,1e-7,0],"ok":0}
+{"fn":"clamp","args":[1,5e-324,0],"ok":0}
+{"fn":"clamp","args":[1,1.7976931348623157e+308,0],"ok":0}
+{"fn":"clamp","args":[1,9007199254740992,0],"ok":0}
+{"fn":"clamp","args":[1,{"$num":"-0"},0],"ok":0}
+{"fn":"clamp","args":[1,0,-7.5],"ok":-7.5}
+{"fn":"clamp","args":[1,0,0.1],"ok":0.1}
+{"fn":"clamp","args":[1,0,0.30000000000000004],"ok":0.30000000000000004}
+{"fn":"clamp","args":[1,0,1e+21],"ok":1}
+{"fn":"clamp","args":[1,0,1e-7],"ok":1e-7}
+{"fn":"clamp","args":[1,0,5e-324],"ok":5e-324}
+{"fn":"clamp","args":[1,0,1.7976931348623157e+308],"ok":1}
+{"fn":"clamp","args":[1,0,9007199254740992],"ok":1}
+{"fn":"clamp","args":[1,0,{"$num":"-0"}],"ok":{"$num":"-0"}}
+{"fn":"round","args":[2,1000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[{"$num":"-Infinity"},-2.5],"ok":{"$num":"-Infinity"}}
+{"fn":"round","args":[100,{"$num":"Infinity"}],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[42,{"$undefined":true}],"ok":42}
+{"fn":"round","args":[42,10],"ok":42}
+{"fn":"round","args":[0.5],"ok":0.5}
+{"fn":"round","args":[0,{"$undefined":true}],"ok":0}
+{"fn":"round","args":[-2.5,0.5],"ok":-2.5298221281347035}
+{"fn":"round","args":[10,42],"ok":10}
+{"fn":"round","args":[{"$num":"NaN"},1000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[{"$num":"Infinity"},2147483648],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[3,1000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[9007199254740992,{"$undefined":true}],"ok":9007199254740992}
+{"fn":"round","args":[{"$num":"-Infinity"},{"$num":"NaN"}],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[{"$num":"-Infinity"},2],"ok":{"$num":"-Infinity"}}
+{"fn":"round","args":[1,{"$num":"-Infinity"}],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[2,42],"ok":2}
+{"fn":"round","args":[{"$num":"NaN"},{"$num":"-Infinity"}],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[{"$num":"-Infinity"}],"ok":{"$num":"-Infinity"}}
+{"fn":"round","args":[{"$num":"NaN"},{"$undefined":true}],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[{"$num":"-0"},1000000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[0,2147483648],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[2147483648,1000000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[1000000,{"$num":"-0"}],"ok":1000000}
+{"fn":"round","args":[1,{"$undefined":true}],"ok":1}
+{"fn":"round","args":[-2.5,{"$num":"Infinity"}],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[1000,1],"ok":1000}
+{"fn":"round","args":[0.5,{"$num":"-Infinity"}],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[10,-1],"ok":10}
+{"fn":"round","args":[{"$num":"-0"},9007199254740992],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[-2.5,9007199254740992],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[-2.5,2],"ok":-2.5}
+{"fn":"round","args":[1000,{"$num":"Infinity"}],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[3,{"$num":"NaN"}],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[{"$num":"-Infinity"},100],"ok":{"$num":"-Infinity"}}
+{"fn":"round","args":[1,42],"ok":1}
+{"fn":"round","args":[42,2147483648],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[1000000,2147483648],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[0.5,{"$num":"-0"}],"ok":1}
+{"fn":"round","args":[2147483648,{"$num":"Infinity"}],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[-2.5,1000000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[0.5,{"$num":"NaN"}],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[2147483648],"ok":2147483648}
+{"fn":"round","args":[-1,{"$undefined":true}],"ok":-1}
+{"fn":"round","args":[{"$num":"Infinity"},1000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[3,2147483648],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[9007199254740992,0.5],"ok":9007199254740992}
+{"fn":"round","args":[0.5,{"$undefined":true}],"ok":0.5}
+{"fn":"round","args":[1000,0],"ok":1000}
+{"fn":"round","args":[42,0.5],"ok":42.05829288023944}
+{"fn":"round","args":[{"$num":"-Infinity"},-1],"ok":{"$num":"-Infinity"}}
+{"fn":"round","args":[0.5,10],"ok":0.5}
+{"fn":"round","args":[0,1000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[0.5,-2.5],"ok":0}
+{"fn":"round","args":[{"$num":"-0"}],"ok":{"$num":"-0"}}
+{"fn":"round","args":[-1,100],"ok":-1}
+{"fn":"round","args":[{"$num":"NaN"},2147483648],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[42,1000000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[{"$num":"Infinity"},{"$num":"NaN"}],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[0.5,42],"ok":0.5}
+{"fn":"round","args":[1000,42],"ok":1000}
+{"fn":"round","args":[-2.5,2147483648],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[{"$num":"-Infinity"},{"$undefined":true}],"ok":{"$num":"-Infinity"}}
+{"fn":"round","args":[100,2],"ok":100}
+{"fn":"round","args":[-2.5,10],"ok":-2.5}
+{"fn":"round","args":[{"$num":"-Infinity"},{"$num":"-Infinity"}],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[{"$num":"NaN"},100],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[1000000,{"$num":"Infinity"}],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[-2.5,100],"ok":-2.5}
+{"fn":"round","args":[0,0.5],"ok":0}
+{"fn":"round","args":[{"$num":"-0"},1000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[42,100],"ok":42}
+{"fn":"round","args":[-1,2147483648],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[10],"ok":10}
+{"fn":"round","args":[10,{"$undefined":true}],"ok":10}
+{"fn":"round","args":[42,1],"ok":42}
+{"fn":"round","args":[9007199254740992,{"$num":"NaN"}],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[9007199254740992,3],"ok":9007199254740992}
+{"fn":"round","args":[3,3],"ok":3}
+{"fn":"round","args":[1,1000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[2,2147483648],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[1000,{"$num":"-Infinity"}],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[-2.5,-1],"ok":{"$num":"-0"}}
+{"fn":"round","args":[-1],"ok":-1}
+{"fn":"round","args":[0,2],"ok":0}
+{"fn":"round","args":[2,{"$undefined":true}],"ok":2}
+{"fn":"round","args":[2,{"$num":"-0"}],"ok":2}
+{"fn":"round","args":[9007199254740992,-2.5],"ok":9007199254741082}
+{"fn":"round","args":[1,{"$num":"Infinity"}],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[2,9007199254740992],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[1000,1000000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[2,{"$num":"Infinity"}],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[9007199254740992,0],"ok":9007199254740992}
+{"fn":"round","args":[3],"ok":3}
+{"fn":"round","args":[0,42],"ok":0}
+{"fn":"round","args":[-1,1000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[{"$num":"Infinity"},-2.5],"ok":{"$num":"Infinity"}}
+{"fn":"round","args":[{"$num":"-Infinity"},1000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[10,100],"ok":10}
+{"fn":"round","args":[{"$num":"NaN"}],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[-7.5,1000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[0.1,1000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[0.30000000000000004,1000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[1e+21,1000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[1e-7,1000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[5e-324,1000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[1.7976931348623157e+308,1000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[9007199254740992,1000],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[2,-7.5],"ok":0}
+{"fn":"round","args":[2,0.1],"ok":2.3829847041728445}
+{"fn":"round","args":[2,0.30000000000000004],"ok":2.004748934509089}
+{"fn":"round","args":[2,1e+21],"ok":{"$num":"NaN"}}
+{"fn":"round","args":[2,1e-7],"ok":1.9999995394830345}
+{"fn":"round","args":[2,5e-324],"ok":2}
+{"fn":"round","args":[2,1.7976931348623157e+308],"ok":{"$num":"NaN"}}
+{"fn":"formatDuration","args":[0.5],"ok":"00:00"}
+{"fn":"formatDuration","args":[3],"ok":"00:00"}
+{"fn":"formatDuration","args":[0],"ok":"00:00"}
+{"fn":"formatDuration","args":[2],"ok":"00:00"}
+{"fn":"formatDuration","args":[1],"ok":"00:00"}
+{"fn":"formatDuration","args":[-2.5],"ok":"00:00"}
+{"fn":"formatDuration","args":[{"$num":"-Infinity"}],"ok":"00:00"}
+{"fn":"formatDuration","args":[{"$num":"NaN"}],"ok":"NaN:NaN"}
+{"fn":"formatDuration","args":[{"$num":"Infinity"}],"ok":"Infinityh NaNm NaNs"}
+{"fn":"formatDuration","args":[-1],"ok":"00:00"}
+{"fn":"formatDuration","args":[1000],"ok":"00:01"}
+{"fn":"formatDuration","args":[10],"ok":"00:00"}
+{"fn":"formatDuration","args":[9007199254740992],"ok":"2501999792h 59m 00s"}
+{"fn":"formatDuration","args":[100],"ok":"00:00"}
+{"fn":"formatDuration","args":[1000000],"ok":"16:40"}
+{"fn":"formatDuration","args":[{"$num":"-0"}],"ok":"00:00"}
+{"fn":"formatDuration","args":[2147483648],"ok":"596h 31m 23s"}
+{"fn":"formatDuration","args":[42],"ok":"00:00"}
+{"fn":"formatDuration","args":[-7.5],"ok":"00:00"}
+{"fn":"formatDuration","args":[0.1],"ok":"00:00"}
+{"fn":"formatDuration","args":[0.30000000000000004],"ok":"00:00"}
+{"fn":"formatDuration","args":[1e+21],"ok":"277777777777777h 46m 40s"}
+{"fn":"formatDuration","args":[1e-7],"ok":"00:00"}
+{"fn":"formatDuration","args":[5e-324],"ok":"00:00"}
+{"fn":"formatDuration","args":[1.7976931348623157e+308],"ok":"4.99359204128421e+301h 40m 48s"}
+{"fn":"formatBytes","args":[-1],"ok":"0 B"}
+{"fn":"formatBytes","args":[1],"ok":"1 B"}
+{"fn":"formatBytes","args":[1000000],"ok":"976.6 KB"}
+{"fn":"formatBytes","args":[2],"ok":"2 B"}
+{"fn":"formatBytes","args":[{"$num":"Infinity"}],"ok":"0 B"}
+{"fn":"formatBytes","args":[{"$num":"NaN"}],"ok":"0 B"}
+{"fn":"formatBytes","args":[-2.5],"ok":"0 B"}
+{"fn":"formatBytes","args":[42],"ok":"42 B"}
+{"fn":"formatBytes","args":[{"$num":"-Infinity"}],"ok":"0 B"}
+{"fn":"formatBytes","args":[10],"ok":"10 B"}
+{"fn":"formatBytes","args":[0],"ok":"0 B"}
+{"fn":"formatBytes","args":[1000],"ok":"1000 B"}
+{"fn":"formatBytes","args":[9007199254740992],"ok":"8589934592 MB"}
+{"fn":"formatBytes","args":[0.5],"ok":"512 undefined"}
+{"fn":"formatBytes","args":[{"$num":"-0"}],"ok":"0 B"}
+{"fn":"formatBytes","args":[2147483648],"ok":"2048 MB"}
+{"fn":"formatBytes","args":[3],"ok":"3 B"}
+{"fn":"formatBytes","args":[100],"ok":"100 B"}
+{"fn":"formatBytes","args":[-7.5],"ok":"0 B"}
+{"fn":"formatBytes","args":[0.1],"ok":"102.4 undefined"}
+{"fn":"formatBytes","args":[0.30000000000000004],"ok":"307.2 undefined"}
+{"fn":"formatBytes","args":[1e+21],"ok":"953674316406250 MB"}
+{"fn":"formatBytes","args":[1e-7],"ok":"107.4 undefined"}
+{"fn":"formatBytes","args":[5e-324],"ok":"Infinity undefined"}
+{"fn":"formatBytes","args":[1.7976931348623157e+308],"ok":"1.7144137714980273e+302 MB"}
+{"fn":"severityWeight","args":["hello"],"ok":0}
+{"fn":"severityWeight","args":["src/a/b.ts"],"ok":0}
+{"fn":"severityWeight","args":["straße"],"ok":0}
+{"fn":"severityWeight","args":["😀"],"ok":0}
+{"fn":"severityWeight","args":["trailing."],"ok":0}
+{"fn":"severityWeight","args":["tab\tseparated"],"ok":0}
+{"fn":"severityWeight","args":["./x/**/*.json"],"ok":0}
+{"fn":"severityWeight","args":[".leading.leading"],"ok":0}
+{"fn":"severityWeight","args":["a.b.c﻿bom"],"ok":0}
+{"fn":"severityWeight","args":[":  padded  "],"ok":0}
+{"fn":"severityWeight","args":["é"],"ok":0}
+{"fn":"severityWeight","args":[".leading"],"ok":0}
+{"fn":"severityWeight","args":["src/a/b.ts{name} has {count} items"],"ok":0}
+{"fn":"severityWeight","args":["a.b.c:"],"ok":0}
+{"fn":"severityWeight","args":["a.b.c"],"ok":0}
+{"fn":"severityWeight","args":["ab"],"ok":0}
+{"fn":"severityWeight","args":[""],"ok":0}
+{"fn":"severityWeight","args":["😀abc"],"ok":0}
+{"fn":"severityWeight","args":["a"],"ok":0}
+{"fn":"severityWeight","args":["日本語のテキストkey_name-1"],"ok":0}
+{"fn":"severityWeight","args":["ns:key.path"],"ok":0}
+{"fn":"severityWeight","args":["a..b"],"ok":0}
+{"fn":"severityWeight","args":["abc"],"ok":0}
+{"fn":"severityWeight","args":["日本語のテキスト"],"ok":0}
+{"fn":"severityWeight","args":["a😀b😀c"],"ok":0}
+{"fn":"severityWeight","args":["İstanbul"],"ok":0}
+{"fn":"severityWeight","args":[":./x/**/*.json"],"ok":0}
+{"fn":"severityWeight","args":["﻿bom"],"ok":0}
+{"fn":"severityWeight","args":["emoji 👍🏽 mixa.b.c"],"ok":0}
+{"fn":"severityWeight","args":["ns:key.pathé"],"ok":0}
+{"fn":"severityWeight","args":["  padded  "],"ok":0}
+{"fn":"severityWeight","args":["src/a/b.tsa😀b😀c"],"ok":0}
+{"fn":"severityWeight","args":["HELLO"],"ok":0}
+{"fn":"severityWeight","args":["abckey_name-1"],"ok":0}
+{"fn":"severityWeight","args":["a:b:c"],"ok":0}
+{"fn":"severityWeight","args":["ΣΊΣΥΦΟΣ"],"ok":0}
+{"fn":"severityWeight","args":["ünïcödé"],"ok":0}
+{"fn":"severityWeight","args":["ΣΊΣΥΦΟΣ  padded  "],"ok":0}
+{"fn":"severityWeight","args":["key_name-1"],"ok":0}
+{"fn":"severityWeight","args":["a:b:cemoji 👍🏽 mix"],"ok":0}
+{"fn":"severityWeight","args":["Hello Worldline1\nline2"],"ok":0}
+{"fn":"severityWeight","args":["./x/**/*.json:"],"ok":0}
+{"fn":"severityWeight","args":["﻿bomline1\nline2"],"ok":0}
+{"fn":"severityWeight","args":["hello world"],"ok":0}
+{"fn":"severityWeight","args":["hello world.leading"],"ok":0}
+{"fn":"severityWeight","args":[":"],"ok":0}
+{"fn":"severityWeight","args":["Hello World"],"ok":0}
+{"fn":"severityWeight","args":["hellons:key.path"],"ok":0}
+{"fn":"severityWeight","args":["emoji 👍🏽 mix"],"ok":0}
+{"fn":"severityWeight","args":["straßeline1\nline2"],"ok":0}
+{"fn":"severityWeight","args":["ékey_name-1"],"ok":0}
+{"fn":"severityWeight","args":["src/a/b.tsab"],"ok":0}
+{"fn":"severityWeight","args":["{name} has {count} items  padded  "],"ok":0}
+{"fn":"severityWeight","args":["straßens:key.path"],"ok":0}
+{"fn":"severityWeight","args":["﻿bomHELLO"],"ok":0}
+{"fn":"severityWeight","args":["ΣΊΣΥΦΟΣ😀"],"ok":0}
+{"fn":"severityWeight","args":["{name} has {count} items"],"ok":0}
+{"fn":"severityWeight","args":["line1\nline2"],"ok":0}
+{"fn":"severityWeight","args":["straße日本語のテキスト"],"ok":0}
+{"fn":"severityWeight","args":["  padded  a.b.c"],"ok":0}
+{"fn":"severityWeight","args":["HELLOab"],"ok":0}
+{"fn":"severityWeight","args":["a:b:c  padded  "],"ok":0}
+{"fn":"severityWeight","args":["ns:key.path{name} has {count} items"],"ok":0}
+{"fn":"severityWeight","args":["a.leading"],"ok":0}
+{"fn":"severityWeight","args":["key_name-1日本語のテキスト"],"ok":0}
+{"fn":"severityWeight","args":["abcünïcödé"],"ok":0}
+{"fn":"severityWeight","args":["line1\nline2hello world"],"ok":0}
+{"fn":"severityWeight","args":["tab\tseparatedab"],"ok":0}
+{"fn":"severityWeight","args":["aa..b"],"ok":0}
+{"fn":"severityWeight","args":["😀ΣΊΣΥΦΟΣ"],"ok":0}
+{"fn":"severityWeight","args":["a..bHELLO"],"ok":0}
+{"fn":"severityWeight","args":["./x/**/*.jsonsrc/a/b.ts"],"ok":0}
+{"fn":"severityWeight","args":[".leadingns:key.path"],"ok":0}
+{"fn":"severityWeight","args":["a..babc"],"ok":0}
+{"fn":"severityWeight","args":["hello worldsrc/a/b.ts"],"ok":0}
+{"fn":"severityWeight","args":["trailing.HELLO"],"ok":0}
+{"fn":"severityWeight","args":["./x/**/*.jsonabc"],"ok":0}
+{"fn":"severityWeight","args":["tab\tseparated.leading"],"ok":0}
+{"fn":"severityWeight","args":["./x/**/*.jsona..b"],"ok":0}
+{"fn":"severityWeight","args":["trailing.a..b"],"ok":0}
+{"fn":"severityWeight","args":["Hello Worlda😀b😀c"],"ok":0}
+{"fn":"severityWeight","args":["emoji 👍🏽 mixa"],"ok":0}
+{"fn":"severityWeight","args":["hello😀"],"ok":0}
+{"fn":"severityWeight","args":["ünïcödékey_name-1"],"ok":0}
+{"fn":"severityWeight","args":["key_name-1:"],"ok":0}
+{"fn":"severityWeight","args":["HELLOkey_name-1"],"ok":0}
+{"fn":"severityWeight","args":["hello worlda.b.c"],"ok":0}
+{"fn":"severityWeight","args":["a.b.cİstanbul"],"ok":0}
+{"fn":"severityWeight","args":["﻿bom.leading"],"ok":0}
+{"fn":"severityWeight","args":["﻿bomsrc/a/b.ts"],"ok":0}
+{"fn":"severityWeight","args":["ünïcödéa"],"ok":0}
+{"fn":"severityWeight","args":["trailing.İstanbul"],"ok":0}
+{"fn":"severityWeight","args":["ΣΊΣΥΦΟΣİstanbul"],"ok":0}
+{"fn":"severityWeight","args":["{name} has {count} itemsé"],"ok":0}
+{"fn":"severityWeight","args":["Hello Worlda:b:c"],"ok":0}
+{"fn":"severityWeight","args":["  padded  .leading"],"ok":0}
+{"fn":"severityWeight","args":["éa.b.c"],"ok":0}
+{"fn":"severityWeight","args":["a:b:cline1\nline2"],"ok":0}
+{"fn":"severityWeight","args":["  padded  ab"],"ok":0}
+{"fn":"severityWeight","args":["﻿bomkey_name-1"],"ok":0}
+{"fn":"severityWeight","args":["héllo wörld"],"ok":0}
+{"fn":"severityWeight","args":["👍🏽 thumbs"],"ok":0}
+{"fn":"severityWeight","args":["日本語"],"ok":0}
+{"fn":"severityWeight","args":["ılık ırmak"],"ok":0}
+{"fn":"severityWeight","args":["👨‍👩‍👧 family"],"ok":0}
+{"fn":"severityWeight","args":["a b"],"ok":0}
+{"fn":"severityWeight","args":["a😀b"],"ok":0}
+{"fn":"severityWeight","args":["a²b x½ y①"],"ok":0}
+{"fn":"severityWeight","args":["aⅠb Ⅻ"],"ok":0}
+{"fn":"severityWeight","args":["a𐐀b 𝐀bc"],"ok":0}
+{"fn":"severityWeight","args":["कि ٣٤"],"ok":0}
+{"fn":"shapeToPoints","args":[{"id":"s1","type":"line","layerId":"l1","points":[{"x":10,"y":20},{"x":90,"y":40}],"stroke":"#171719","width":0.5},{"shapes":[],"layers":[],"bed":{"width":300,"height":300},"settings":{"feedRate":1800,"travelRate":3000,"penUp":5,"penDown":0,"passes":1}}],"ok":[{"x":10,"y":20},{"x":90,"y":40}]}
+{"fn":"shapeToPoints","args":[{"id":"s2","type":"rect","layerId":"l1","points":[{"x":100,"y":100},{"x":50,"y":60}],"stroke":"#171719","width":0.5},{"shapes":[],"layers":[],"bed":{"width":300,"height":300},"settings":{"feedRate":1800,"travelRate":3000,"penUp":5,"penDown":0,"passes":1}}],"ok":[{"x":50,"y":60},{"x":100,"y":60},{"x":100,"y":100},{"x":50,"y":100},{"x":50,"y":60}]}
+{"fn":"shapeToPoints","args":[{"id":"s3","type":"ellipse","layerId":"l1","points":[{"x":60,"y":60},{"x":80,"y":80}],"stroke":"#171719","width":0.5},{"shapes":[],"layers":[],"bed":{"width":300,"height":300},"settings":{"feedRate":1800,"travelRate":3000,"penUp":5,"penDown":0,"passes":1}}],"ok":[{"x":80,"y":70},{"x":79.9144486137381,"y":71.30526192220051},{"x":79.65925826289069,"y":72.58819045102521},{"x":79.23879532511287,"y":73.8268343236509},{"x":78.66025403784438,"y":75},{"x":77.93353340291235,"y":76.0876142900872},{"x":77.07106781186548,"y":77.07106781186548},{"x":76.0876142900872,"y":77.93353340291235},{"x":75,"y":78.66025403784438},{"x":73.8268343236509,"y":79.23879532511287},{"x":72.58819045102521,"y":79.65925826289069},{"x":71.30526192220051,"y":79.9144486137381},{"x":70,"y":80},{"x":68.69473807779949,"y":79.9144486137381},{"x":67.41180954897479,"y":79.65925826289069},{"x":66.1731656763491,"y":79.23879532511287},{"x":65,"y":78.66025403784438},{"x":63.9123857099128,"y":77.93353340291235},{"x":62.928932188134524,"y":77.07106781186548},{"x":62.06646659708765,"y":76.0876142900872},{"x":61.33974596215561,"y":75},{"x":60.76120467488713,"y":73.8268343236509},{"x":60.34074173710932,"y":72.58819045102521},{"x":60.0855513862619,"y":71.30526192220051},{"x":60,"y":70},{"x":60.0855513862619,"y":68.69473807779949},{"x":60.34074173710931,"y":67.4118095489748},{"x":60.76120467488713,"y":66.1731656763491},{"x":61.33974596215562,"y":65},{"x":62.06646659708765,"y":63.9123857099128},{"x":62.928932188134524,"y":62.928932188134524},{"x":63.91238570991279,"y":62.066466597087654},{"x":65,"y":61.33974596215562},{"x":66.1731656763491,"y":60.76120467488714},{"x":67.41180954897479,"y":60.34074173710932},{"x":68.69473807779949,"y":60.0855513862619},{"x":70,"y":60},{"x":71.30526192220051,"y":60.0855513862619},{"x":72.5881904510252,"y":60.34074173710931},{"x":73.8268343236509,"y":60.76120467488713},{"x":75,"y":61.33974596215562},{"x":76.0876142900872,"y":62.06646659708765},{"x":77.07106781186548,"y":62.928932188134524},{"x":77.93353340291235,"y":63.91238570991279},{"x":78.66025403784438,"y":65},{"x":79.23879532511286,"y":66.1731656763491},{"x":79.65925826289069,"y":67.41180954897479},{"x":79.9144486137381,"y":68.69473807779949},{"x":80,"y":70}]}
+{"fn":"shapeToPoints","args":[{"id":"s4","type":"polyline","layerId":"l1","points":[{"x":0,"y":0},{"x":10,"y":10},{"x":20,"y":0}],"stroke":"#171719","width":0.5},{"shapes":[],"layers":[],"bed":{"width":300,"height":300},"settings":{"feedRate":1800,"travelRate":3000,"penUp":5,"penDown":0,"passes":1}}],"ok":[{"x":0,"y":0},{"x":10,"y":10},{"x":20,"y":0}]}
+{"fn":"shapeToPoints","args":[{"id":"s5","type":"unknown","layerId":"l1","points":[{"x":0,"y":0},{"x":1,"y":1}],"stroke":"#171719","width":0.5},{"shapes":[],"layers":[],"bed":{"width":300,"height":300},"settings":{"feedRate":1800,"travelRate":3000,"penUp":5,"penDown":0,"passes":1}}],"ok":[]}
+{"fn":"buildSegments","args":[{"shapes":[{"id":"s1","type":"line","layerId":"l1","points":[{"x":10,"y":20},{"x":90,"y":40}],"stroke":"#171719","width":0.5},{"id":"s2","type":"rect","layerId":"l2","points":[{"x":100,"y":100},{"x":150,"y":120}],"stroke":"#E33B40","width":0.5},{"id":"s3","type":"polyline","layerId":"hidden","points":[{"x":200,"y":200},{"x":220,"y":210}],"stroke":"#000000","width":0.5}],"layers":[{"id":"l1","name":"A","color":"#171719","visible":true,"locked":false},{"id":"l2","name":"B","color":"#E33B40","visible":true,"locked":false},{"id":"hidden","name":"C","color":"#000000","visible":false,"locked":false}],"bed":{"width":300,"height":300},"settings":{"feedRate":1800,"travelRate":3000,"penUp":5,"penDown":0,"passes":1}}],"ok":[{"from":{"x":0,"y":0},"to":{"x":10,"y":20},"pen":"up","shapeId":"s1"},{"from":{"x":10,"y":20},"to":{"x":90,"y":40},"pen":"down","shapeId":"s1"},{"from":{"x":90,"y":40},"to":{"x":100,"y":100},"pen":"up","shapeId":"s2"},{"from":{"x":100,"y":100},"to":{"x":150,"y":100},"pen":"down","shapeId":"s2"},{"from":{"x":150,"y":100},"to":{"x":150,"y":120},"pen":"down","shapeId":"s2"},{"from":{"x":150,"y":120},"to":{"x":100,"y":120},"pen":"down","shapeId":"s2"},{"from":{"x":100,"y":120},"to":{"x":100,"y":100},"pen":"down","shapeId":"s2"}]}
+{"fn":"buildSegments","args":[{"shapes":[],"layers":[{"id":"l1","name":"A","color":"#171719","visible":true,"locked":false}],"bed":{"width":300,"height":300},"settings":{"feedRate":1800,"travelRate":3000,"penUp":5,"penDown":0,"passes":1}}],"ok":[]}
+{"fn":"documentStats","args":[{"shapes":[{"id":"s1","type":"line","layerId":"l1","points":[{"x":10,"y":20},{"x":90,"y":40}],"stroke":"#171719","width":0.5},{"id":"s2","type":"rect","layerId":"l2","points":[{"x":100,"y":100},{"x":150,"y":120}],"stroke":"#E33B40","width":0.5},{"id":"s3","type":"polyline","layerId":"hidden","points":[{"x":200,"y":200},{"x":220,"y":210}],"stroke":"#000000","width":0.5}],"layers":[{"id":"l1","name":"A","color":"#171719","visible":true,"locked":false},{"id":"l2","name":"B","color":"#E33B40","visible":true,"locked":false},{"id":"hidden","name":"C","color":"#000000","visible":false,"locked":false}],"bed":{"width":300,"height":300},"settings":{"feedRate":1800,"travelRate":3000,"penUp":5,"penDown":0,"passes":1}}],"ok":{"shapes":3,"visibleShapes":2,"layers":3,"segments":7,"drawDistance":222.5,"travelDistance":83.2,"estimatedSeconds":9.1}}
+{"fn":"clampToBed","args":[{"x":-10,"y":500},{"shapes":[],"layers":[],"bed":{"width":300,"height":200},"settings":{"feedRate":1800,"travelRate":3000,"penUp":5,"penDown":0,"passes":1}}],"ok":{"x":0,"y":200}}
+{"fn":"pointOnSegment","args":[{"from":{"x":10,"y":20},"to":{"x":90,"y":40},"pen":"down","shapeId":"s1"},0.25],"ok":{"x":30,"y":25}}
+{"fn":"segmentLength","args":[{"from":{"x":0,"y":0},"to":{"x":3,"y":4},"pen":"down","shapeId":"s1"}],"ok":5}
+{"fn":"totalDistance","args":[[{"from":{"x":0,"y":0},"to":{"x":3,"y":4},"pen":"down","shapeId":"s1"},{"from":{"x":3,"y":4},"to":{"x":6,"y":8},"pen":"up","shapeId":"s1"}]],"ok":10}
+{"fn":"toGcode","args":[{"shapes":[{"id":"s1","type":"line","layerId":"l1","points":[{"x":10,"y":20},{"x":90,"y":40}],"stroke":"#171719","width":0.5}],"layers":[{"id":"l1","name":"A","color":"#171719","visible":true,"locked":false}],"bed":{"width":300,"height":300},"settings":{"feedRate":1800,"travelRate":3000,"penUp":5,"penDown":0,"passes":1}}],"ok":"; TOKI — PEN PLOTTER · traço vetorial\n; Bed 300x300 mm · Z seguro 5 / trabalho 0\nG21\nG90\nG0 Z5 F3000\nG0 X10 Y20 Z5 F3000\nG0 X90 Y40 Z5 F3000\nG1 Z0 F1500\nG1 X90 Y40 F1800\nG0 Z5 F3000\nM114\n; END"}
+{"fn":"toGcode","args":[{"shapes":[{"id":"s1","type":"line","layerId":"l1","points":[{"x":10,"y":20},{"x":90,"y":40}],"stroke":"#171719","width":0.5}],"layers":[{"id":"l1","name":"A","color":"#171719","visible":true,"locked":false}],"bed":{"width":300,"height":300},"settings":{"feedRate":1800,"travelRate":3000,"penUp":5,"penDown":0,"passes":1}},{"mode":"plotter","profiles":{"plotter":{"label":"PEN PLOTTER","bed":{"width":300,"height":300,"maxZ":40},"feedRateMax":6000,"travelRateMax":9000,"tool":{"kind":"pen","label":"Caneta","safeZ":5,"workZ":0,"rpmMin":0,"rpmMax":0,"rpmDefault":0,"nozzleTempMax":0,"bedTempMax":0,"nozzleTarget":0,"bedTarget":0,"spindleEnabled":false}}},"acknowledged":{"spindleFirmware":false,"enclosure":false,"workholding":false,"thermalRunaway":false},"lastModeSwitchAt":null}],"ok":"; TOKI — PEN PLOTTER · traço vetorial\n; Bed 300x300 mm · Z seguro 5 / trabalho 0\nG21\nG90\nG0 Z5 F3000\nG0 X10 Y20 Z5 F3000\nG0 X90 Y40 Z5 F3000\nG1 Z0 F1500\nG1 X90 Y40 F1800\nG0 Z5 F3000\nM114\n; END"}
+{"fn":"toGcode","args":[{"shapes":[{"id":"s1","type":"line","layerId":"l1","points":[{"x":250,"y":250},{"x":350,"y":120}],"stroke":"#171719","width":0.5}],"layers":[{"id":"l1","name":"A","color":"#171719","visible":true,"locked":false}],"bed":{"width":200,"height":200},"settings":{"feedRate":18000,"travelRate":30000,"penUp":5,"penDown":0,"passes":1}},{"mode":"printer3d","profiles":{"printer3d":{"label":"IMPRESSORA 3D","bed":{"width":150,"height":150,"maxZ":300},"feedRateMax":12000,"travelRateMax":18000,"tool":{"kind":"hotend","label":"Hotend","safeZ":10,"workZ":0.2,"rpmMin":0,"rpmMax":0,"rpmDefault":0,"nozzleTempMax":260,"bedTempMax":110,"nozzleTarget":200,"bedTarget":60,"spindleEnabled":false}}},"acknowledged":{"spindleFirmware":false,"enclosure":false,"workholding":false,"thermalRunaway":true},"lastModeSwitchAt":null}],"ok":"; TOKI — IMPRESSORA 3D · traço vetorial\n; Bed 150x150 mm · Z seguro 10 / trabalho 0.2\nG21\nG90\nG0 Z10 F18000\nM104 S200\nM140 S60\n; Sem comandos E: extrusão manual em MACHINE CONTROL\nG0 X150 Y150 Z10 F18000\nG0 X150 Y120 Z10 F18000\nG1 Z0.2 F9000\nG1 X150 Y120 F12000\nG0 Z10 F18000\nM104 S0\nM140 S0\nM114\n; END"}
+{"fn":"toGcode","args":[{"shapes":[{"id":"s1","type":"line","layerId":"l1","points":[{"x":10,"y":20},{"x":90,"y":40}],"stroke":"#171719","width":0.5}],"layers":[{"id":"l1","name":"A","color":"#171719","visible":true,"locked":false}],"bed":{"width":300,"height":300},"settings":{"feedRate":1800,"travelRate":3000,"penUp":5,"penDown":0,"passes":1}},{"mode":"cnc","profiles":{"cnc":{"label":"CNC / FUSO","bed":{"width":300,"height":300,"maxZ":120},"feedRateMax":3000,"travelRateMax":6000,"tool":{"kind":"spindle","label":"Fuso","safeZ":15,"workZ":0,"rpmMin":3000,"rpmMax":12000,"rpmDefault":8000,"nozzleTempMax":0,"bedTempMax":0,"nozzleTarget":0,"bedTarget":0,"spindleEnabled":true}}},"acknowledged":{"spindleFirmware":true,"enclosure":true,"workholding":true,"thermalRunaway":false},"lastModeSwitchAt":null}],"ok":"; TOKI — CNC / FUSO · traço vetorial\n; Bed 300x300 mm · Z seguro 15 / trabalho 0\nG21\nG90\nG0 Z15 F3000\nM3 S8000\nG0 X10 Y20 Z15 F3000\nG0 X90 Y40 Z15 F3000\nG1 Z0 F1500\nG1 X90 Y40 F1800\nG0 Z15 F3000\nM5\nM114\n; END"}
