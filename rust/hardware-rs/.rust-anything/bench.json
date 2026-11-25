@@ -1,0 +1,1 @@
+[{"fn":"allowedCommandsFor","cases":13,"original_ns":1297.393526294968,"rust_ns":6995.926573426575,"speedup":0.1854498489482445},{"fn":"validateCommand","cases":244,"original_ns":10320.430327868851,"rust_ns":10850.064710957726,"speedup":0.9511860622772152}]
